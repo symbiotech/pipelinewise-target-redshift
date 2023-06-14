@@ -22,7 +22,7 @@ setup(name="pipelinewise-target-redshift",
           'boto3==1.12.39',
           'psycopg2-binary==2.9.5',
           'inflection==0.4.0',
-          'joblib==1.11.0'
+          'joblib==1.1.1'
       ],
       extras_require={
           "test": [
